@@ -20,6 +20,7 @@ Built with plain HTML5 Canvas, CSS and vanilla JavaScript. No frameworks, no bui
 
 1. Download or clone the repository.
 2. Open `index.html` in a modern browser (Chrome, Edge, Firefox or Safari).
+3. You can directly play from this link https://nobody-1602.itch.io/the-book-of-realms
 
 That's it. There is nothing to install.
 
