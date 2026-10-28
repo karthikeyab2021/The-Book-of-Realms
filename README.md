@@ -1,3 +1,6 @@
+🎮 **Play The Book of Realms:**  
+[Play the game on itch.io](https://nobody-1602.itch.io/the-book-of-realms)
+
 # The Book of Realms: Stickman Combat
 
 A fast, keyboard-driven stickman fighting game that runs entirely in your browser. Fight an AI rival or a friend on the same keyboard across two magical domains from the universe of *The Book of Realms*: the bright **Celestial Dominion** and the molten **Ashen Throne**.
